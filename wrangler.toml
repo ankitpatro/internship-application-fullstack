@@ -1,6 +1,6 @@
-name = "{{project-name}}"
-type = "javascript"
-account_id = ""
+name = "my-router-app"
+type = "webpack"
+account_id = "c261d898b696f3c08d502becf7771b35"
 workers_dev = true
 route = ""
 zone_id = ""
