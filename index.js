@@ -21,7 +21,7 @@ class TitleHandler {
 }
 class DescriptionHandler {
     element(element) {
-        element.replace('I Wonder what variant will I get next time...')
+        element.replace('I wonder what variant will I get next time...')
     }
 }
 
